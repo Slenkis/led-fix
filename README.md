@@ -1,4 +1,5 @@
-# Instruction for use on OpenWrt
+# Script for fix LED on Xiaomi Mi 3G
+## Instruction for use on OpenWrt
 ```
 opkg update
 opkg install curl
