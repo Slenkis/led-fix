@@ -1,4 +1,4 @@
-# Instruction for use
+# Instruction for use on OpenWrt
 ```
 opkg update
 opkg install curl
