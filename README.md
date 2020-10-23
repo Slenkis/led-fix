@@ -5,5 +5,6 @@
 - cron (optional)
 ## Usage
 ```
-curl https://raw.githubusercontent.com/Slenkis/led-fix/master/init.sh | sh
+curl -s "https://raw.githubusercontent.com/Slenkis/led-fix/master/init.sh" > init.sh && chmod +x init.sh
+./init.sh
 ```
