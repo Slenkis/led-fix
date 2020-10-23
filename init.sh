@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 crontask="\
 30 08 * * * /usr/bin/led on
