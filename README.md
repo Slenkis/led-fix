@@ -1,4 +1,4 @@
-# Script for fix and control LEDs on Xiaomi Router 3G
+# LEDs configuration on Xiaomi Router 3G v1 (mir3g)
 ## 1. Set triggers in /etc/config/system
 ```
 config led
